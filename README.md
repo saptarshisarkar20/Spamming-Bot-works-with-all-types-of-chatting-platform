@@ -3,7 +3,7 @@
 ## What is a spam bot?
 Speaking generally, bots are computer programs that execute repetitive tasks, and they usually operate over the Internet. A spam bot is a specific type of bot that sends (or helps with sending) spam messages. A spam bot may also post spam in various places where users interact online, such as social media platforms or forums.
  
-# It is a spamming bot to send messages with variation and repeated times.
+# It is a spamming bot to send messages repeated times (with emojis) to all chatting platform
 
 ## 6 modes still now-->
 
