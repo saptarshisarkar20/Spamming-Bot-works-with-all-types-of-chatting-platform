@@ -13,7 +13,7 @@ It has 6 modes still now-->
 
 
 with the best command line interface
-#before use-->
+## before use-->
 
 1. install python in your system.
 2. install python3 pip in your system.
@@ -21,7 +21,7 @@ with the best command line interface
 
 Written in latest Python 3
 
-#User Directions--> 
+## User Directions--> 
 
 1. Run the program (windows- "python im_spam.py" linux- "python3 im_spam.py").
 2. Choose your option ans enter input.
@@ -29,14 +29,14 @@ Written in latest Python 3
 4. Enter repeatation time.
 5. Enter time gap between two messages (in second). 
 6. Enter idle time before the spammer get activated (in seconds).
-##7. Move the cursor to the typing area and click there.
+#### 7. Move the cursor to the typing area and click there. <<<---------------
 8. And BANG!! spamming has started 👿
 
-#Sending emojis-->
+## Sending emojis-->
 
 before activating the spammer just copy (or cut) the desired emoji. and use the paste option in the bot.
 
-#Bot CLI -->
+## Bot CLI -->
 
 ┌──(saptarshi 💖 Linux-Mint)-[~/Documents/GitHub]
 
