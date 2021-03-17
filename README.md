@@ -1,19 +1,28 @@
 # Spamming-Bot-works-with-all-types-of-chatting-platform
+
+## What is a spam bot?
+Speaking generally, bots are computer programs that execute repetitive tasks, and they usually operate over the Internet. A spam bot is a specific type of bot that sends (or helps with sending) spam messages. A spam bot may also post spam in various places where users interact online, such as social media platforms or forums.
  
 It is a spamming bot to send messages with variation and repeated times.
 
 It has 6 modes still now-->
 
  1 : Send a text message repeated times.
+ 
  2 : Type same messsage repeated times.
+ 
  3 : Paste & send a message repeated times.
+ 
  4 : Paste a message repeated time. 
+ 
  5 : Send & increase a part of the message repeated time.
+ 
  6 : Send a multiple msg in different lines repeated times.
+ 
 
 
 with the best command line interface
-## before use-->
+## Before use-->
 
 1. install python in your system.
 2. install python3 pip in your system.
